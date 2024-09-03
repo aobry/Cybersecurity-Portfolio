@@ -1,4 +1,4 @@
-**Aaron OBryant**
+# Aaron OBryant
 
 **CMSC 307 7380**
 
@@ -6,8 +6,6 @@
 
 **  
 **
-
-**Step 3**
 
 **Data can be found everywhere and is collected every day. Data can be
 almost anything ranging from crime rates of San Diego to the box office
@@ -37,7 +35,7 @@ weapon descriptions and receive the number of crimes associated with
 that description. Or another use could be record keeping or building
 reports for upper leadership.**
 
-**Step 4**
+
 
 After logging into the AWS Management Console, I searched Amazon Lex in
 the search bar as seen in figure 2.
