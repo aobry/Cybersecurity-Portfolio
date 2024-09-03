@@ -4,8 +4,7 @@
 
 **12/11/2022**
 
-**  
-**
+
 
 **Data can be found everywhere and is collected every day. Data can be
 almost anything ranging from crime rates of San Diego to the box office
@@ -87,4 +86,3 @@ alt="Graphical user interface, application Description automatically generated" 
 
 **Figure 11. Updated FallbackIntent**
 
-**References**
