@@ -26,7 +26,7 @@ type of crime committed, weapons involved and victim’s age. Figure 1
 shows a small example of how detailed this dataset gets and how
 informative this data can be.**
 
-<img src="./media/image1_P4.emf"
+<img src="./media/image1_P4.jpg"
 style="width:7.29167in;height:1.26042in" />
 
 **Figure 1: “Crime Data from 2020 to Present” dataset**
