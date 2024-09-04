@@ -31,7 +31,7 @@ organization. In the Harry Potter universe, owls are the same as mail
 workers and they deliver parcels to families and not only viewed as an
 “object”.
 
-<img src="./media/image1_P1.png" style="width:6.5in;height:3.05069in"
+<img src="./media/image1_P1.jpg" style="width:6.5in;height:3.05069in"
 alt="Graphical user interface Description automatically generated" />
 
 (Figure 1. IBM’s NLP AI)
@@ -43,7 +43,7 @@ a sentence into the NPL and clicked on the Sentiment Analysis and the
 output made no sense to me as seen in figure 2. I attempted to find a
 key but I could not find one so I can conclude this program is one of
 the worst.
-<img src="./media/image2_P1.png" style="width:6.5in;height:3.02986in"
+<img src="./media/image2_P1.jpg" style="width:6.5in;height:3.02986in"
 alt="Graphical user interface, text, application, chat or text message Description automatically generated" />
 
 (Figure 2. Snap Logic’s NPL AI)
@@ -56,7 +56,7 @@ Logging into the Aws Management Console I was able to search for Amazon
 Polly in the search bar. After entering the text, I was sent to the
 service’s main page.
 
-<img src="./media/image4_P1.png" style="width:6.5in;height:2.30208in" />
+<img src="./media/image4_P1.jpg" style="width:6.5in;height:2.30208in" />
 
 (Figure 3. Entered Amazon Polly service)
 
@@ -67,7 +67,7 @@ and listed some places I would like to visit in the future. Then, I
 selected the preferred spoken language and the voice I would like to
 speak. Finally, I downloaded the finished product to hear the outcome.
 
-<img src="./media/image5_P1.png" style="width:6.5in;height:3.25694in"
+<img src="./media/image5_P1.jpg" style="width:6.5in;height:3.25694in"
 alt="A screenshot of a computer Description automatically generated" />
 
 (Figure 4. Entered and downloaded Welcome message in Polly)
@@ -77,7 +77,7 @@ alt="A screenshot of a computer Description automatically generated" />
 After trying out Amazon Polly, I searched for Amazon Translate in the
 search bar. After my search was complete, I was transported to Amazon
 Translate’s main
-page.<img src="./media/image6_P1.png" style="width:6.5in;height:2.01736in"
+page.<img src="./media/image6_P1.jpg" style="width:6.5in;height:2.01736in"
 alt="Graphical user interface, text, application, website Description automatically generated" />
 
 (Figure 5. Successfully entered Amazon Translate)
@@ -86,7 +86,7 @@ I launched the translation service and entered an excerpt from *<u>Harry
 Potter and the Sorcerer’s Stone</u>*. I opted to convert the English
 text to Japanese characters.
 
-<img src="./media/image7_P1.png" style="width:6.5in;height:3.14792in"
+<img src="./media/image7_P1.jpg" style="width:6.5in;height:3.14792in"
 alt="Graphical user interface, application Description automatically generated" />
 
 (Figure 6. Translated an excerpt from Harry Potter and Sorcerer’s Stone
@@ -98,7 +98,7 @@ was the original text with some small mistakes. That is acceptable
 because language is not universal, and some languages syntax is
 different than others.
 
-<img src="./media/image8_P1.png" style="width:6.5in;height:3.14792in"
+<img src="./media/image8_P1.jpg" style="width:6.5in;height:3.14792in"
 alt="Graphical user interface, application Description automatically generated" />
 
 (Figure 7. Translated excerpt from Japanese back to English)
@@ -111,7 +111,7 @@ Using both Amazon Polly and Amazon Translate as travel buddies is an
 incredible idea. I was able to ask five simple and common questions in
 Amazon Translate to get me by on my imanginary first day in France.
 
-<img src="./media/image10_P1.png" style="width:6.5in;height:2.1125in"
+<img src="./media/image10_P1.jpg" style="width:6.5in;height:2.1125in"
 alt="Graphical user interface, application Description automatically generated" />
 
 (Figure 8. Translated questions from English to French)
@@ -119,7 +119,7 @@ alt="Graphical user interface, application Description automatically generated" 
 Next, I copied the translated questions into Amazon Polly to hear how
 particular questions are asked.
 
-<img src="./media/image11_P1.png" style="width:6.5in;height:3.25694in"
+<img src="./media/image11_P1.jpg" style="width:6.5in;height:3.25694in"
 alt="A screenshot of a computer Description automatically generated" />
 
 (Figure 9. Downloaded Travel Questions)

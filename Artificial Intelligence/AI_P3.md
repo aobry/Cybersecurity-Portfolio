@@ -11,12 +11,12 @@
 Rekognition tool as shown in figure 1 and figure 2.**
 
 ![A screenshot of a computer Description automatically
-generated](media/image1.png){width="6.5in" height="2.157638888888889in"}
+generated](media/image1.jpg){width="6.5in" height="2.157638888888889in"}
 
 **Figure 1. Successful login into AWS Console**
 
 ![Graphical user interface, website Description automatically
-generated](media/image2.png){width="6.5in"
+generated](media/image2.jpg){width="6.5in"
 height="1.9715277777777778in"}
 
 **Figure 2. Navigated successfully to Amazon Rekognition**
@@ -31,7 +31,7 @@ Rekognition and that is label detection. Label detection is the main
 tool used to label objects, scenes and actions as stated before.**
 
 ![Graphical user interface Description automatically
-generated](media/image3.png){width="6.5in"
+generated](media/image3.jpg){width="6.5in"
 height="1.8618055555555555in"}
 
 **Figure 3. Navigated to label detection in Amazon Rekognition**
@@ -43,7 +43,7 @@ detection. A detailed report identified many objects or people in this
 illustration which includes a man and an adult.**
 
 ![Graphical user interface, website Description automatically
-generated](media/image4.png){width="6.5in" height="2.941666666666667in"}
+generated](media/image4.jpg){width="6.5in" height="2.941666666666667in"}
 
 **Figure 4. First upload and detection results.**
 
@@ -62,7 +62,7 @@ word "Fun" is not present. It amazed me how Rekognition could discern
 the mood of a photo with near perfect accuracy.**
 
 ![Graphical user interface, website Description automatically
-generated](media/image5.png){width="6.5in" height="2.970138888888889in"}
+generated](media/image5.jpg){width="6.5in" height="2.970138888888889in"}
 
 **Figure 5. Second upload and detection results.**
 
@@ -75,7 +75,7 @@ confidence label detection believed that the poster is a book. As many
 know, "Harry Potter and the Sorcerer's Stone" is a movie based on the
 book of the same name.**
 
-![](media/image6.png){width="6.5in" height="2.9868055555555557in"}
+![](media/image6.jpg){width="6.5in" height="2.9868055555555557in"}
 
 **Figure 6. Third upload and detection results.**
 
@@ -88,19 +88,19 @@ confidence he was identified. The same trend persisted in figure 9 where
 a photo of J. Cole was identified.**
 
 ![A person in a red shirt Description automatically generated with
-medium confidence](media/image7.png){width="6.5in"
+medium confidence](media/image7.jpg){width="6.5in"
 height="1.6895833333333334in"}
 
 **Figure 7. Nipsey Hussle correctly recognized.**
 
 ![Graphical user interface, application, website, Teams Description
-automatically generated](media/image8.png){width="6.5in"
+automatically generated](media/image8.jpg){width="6.5in"
 height="1.86875in"}
 
 **Figure 8. Chadwick Boseman correctly recognized.**
 
 ![A screenshot of a person Description automatically generated with
-medium confidence](media/image9.png){width="6.5in"
+medium confidence](media/image9.jpg){width="6.5in"
 height="1.8423611111111111in"}
 
 **Figure 9. J. Cole correctly recognized.**

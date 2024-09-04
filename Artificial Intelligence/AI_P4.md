@@ -42,49 +42,49 @@ reports for upper leadership.**
 After logging into the AWS Management Console, I searched Amazon Lex in
 the search bar as seen in figure 2.
 
-<img src="./media/image2_P4.png" style="width:6.5in;height:3.15486in"
+<img src="./media/image2_P4.jpg" style="width:6.5in;height:3.15486in"
 alt="Graphical user interface, application Description automatically generated" />
 
 **Figure 2. Successful logging into AWS Management Console**
 
-<img src="./media/image3_P4.png" style="width:6.5in;height:3.15833in"
+<img src="./media/image3_P4.jpg" style="width:6.5in;height:3.15833in"
 alt="A screenshot of a computer Description automatically generated" />
 
 **Figure 3. Navigated to Amazon Lex successfully**
 
-<img src="./media/image4_P4.png" style="width:6.5in;height:3.14167in"
+<img src="./media/image4_P4.jpg" style="width:6.5in;height:3.14167in"
 alt="Graphical user interface, application Description automatically generated" />
 
 **Figure 4. Configuration page**
 
-<img src="./media/image5_P4.png" style="width:6.5in;height:3.28194in" />
+<img src="./media/image5_P4.jpg" style="width:6.5in;height:3.28194in" />
 
 **Figure 5. Successfully configuring chatbot settings**
 
-<img src="./media/image6_P4.png" style="width:6.5in;height:3.13472in"
+<img src="./media/image6_P4.jpg" style="width:6.5in;height:3.13472in"
 alt="Graphical user interface, application Description automatically generated" />
 
 **Figure 6. Language confirmation**
 
-<img src="./media/image7_P4.png" style="width:6.5in;height:3.13472in"
+<img src="./media/image7_P4.jpg" style="width:6.5in;height:3.13472in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
 **Figure 7. Updated sample utterances**
 
-<img src="./media/image8_P4.png" style="width:6.5in;height:2.01736in" />
+<img src="./media/image8_P4.jpg" style="width:6.5in;height:2.01736in" />
 
 **Figure 8. Updated Initial response message**
 
-<img src="./media/image9_P4.png" style="width:6.5in;height:2.21389in"
+<img src="./media/image9_P4.jpg" style="width:6.5in;height:2.21389in"
 alt="Graphical user interface, application Description automatically generated" />
 
 **Figure 9. Successfully created Slots for intent**
 
-<img src="./media/image10_P4.png" style="width:6.5in;height:3.14792in" />
+<img src="./media/image10_P4.jpg" style="width:6.5in;height:3.14792in" />
 
 **Figure 10. Updated Confirmation prompt to highlight new slots**
 
-<img src="./media/image11_P4.png" style="width:6.5in;height:3.15347in"
+<img src="./media/image11_P4.jpg" style="width:6.5in;height:3.15347in"
 alt="Graphical user interface, application Description automatically generated" />
 
 **Figure 11. Updated FallbackIntent**

@@ -8,7 +8,7 @@ Security**
     question 1. The screenshot should include the username you created
     during the setup phase.**
 
-<img src="./media/image1_CC.png" style="width:6.5in;height:3.15903in"
+<img src="./media/image1_CC.jpg" style="width:6.5in;height:3.15903in"
 alt="A screenshot of a computer Description automatically generated" />
 
 2.  **Launch a Windows Virtual Machine (VM). Provide a detailed overview
@@ -18,35 +18,35 @@ alt="A screenshot of a computer Description automatically generated" />
     required. Finally, take a screenshot of the desktop and paste it
     with your response below this question.**
 
-<img src="./media/image2_CC.png" style="width:6.5in;height:0.32014in" />
+<img src="./media/image2_CC.jpg" style="width:6.5in;height:0.32014in" />
 
 First, I logged into the AWS EC2 Dashboard from the AWS Home Dashboard.
 Then, I select “Launch Instances”.
 
-<img src="./media/image3_CC.png" style="width:6.5in;height:3.12639in"
+<img src="./media/image3_CC.jpg" style="width:6.5in;height:3.12639in"
 alt="A screenshot of a computer Description automatically generated" />
 
 Next, I named my server and selected the Windows OS to run on my
 instance.
 
-<img src="./media/image4_CC.png" style="width:6.5in;height:1.76944in"
+<img src="./media/image4_CC.jpg" style="width:6.5in;height:1.76944in"
 alt="A screenshot of a computer Description automatically generated with medium confidence" />
 
 Third, I selected the free tier instance type and created a Key Pair for
 my instance.
 
-<img src="./media/image5_CC.png" style="width:6.5in;height:5.025in"
+<img src="./media/image5_CC.jpg" style="width:6.5in;height:5.025in"
 alt="A screenshot of a computer Description automatically generated with medium confidence" />
 
 Then, I kept my Network Settings at the defaults.
 
-<img src="./media/image6_CC.png" style="width:6.5in;height:2.80069in"
+<img src="./media/image6_CC.jpg" style="width:6.5in;height:2.80069in"
 alt="A screenshot of a computer Description automatically generated" />
 
 Lastly, I reviewed my configurations on the Summary box to ensure that
 everything is correct.
 
-<img src="./media/image7_CC.png" style="width:6.5in;height:3.15486in"
+<img src="./media/image7_CC.jpg" style="width:6.5in;height:3.15486in"
 alt="A screenshot of a computer Description automatically generated" />
 
 Since everything was correct, I launched my Windows VM!
@@ -62,7 +62,7 @@ memory since I knew the specifications needed to deploy the instance. I
 was able to play around with creating a new Key Pair and configuring
 different Security Settings in the build.
 
-<img src="./media/image8_CC.png" style="width:6.5in;height:6.96458in"
+<img src="./media/image8_CC.jpg" style="width:6.5in;height:6.96458in"
 alt="A screenshot of a computer program Description automatically generated with medium confidence" />
 
 4.  **Using AWS, *create a network file system* with Amazon Elastic File
@@ -77,10 +77,10 @@ alt="A screenshot of a computer program Description automatically generated with
     simple dd command to generate a 1GiB file in your new directory.*
     Finally, describe the value of a network file system.**
 
-> <img src="./media/image9_CC.png" style="width:6.5in;height:3.25139in"
+> <img src="./media/image9_CC.jpg" style="width:6.5in;height:3.25139in"
 > alt="A screenshot of a computer Description automatically generated with medium confidence" />
 >
-> <img src="./media/image10_CC.png" style="width:6.5in;height:2.32986in"
+> <img src="./media/image10_CC.jpg" style="width:6.5in;height:2.32986in"
 > alt="A computer screen with white text Description automatically generated with low confidence" />
 
 5.  **Using the AWS platform, create an S3 bucket and upload any file to
@@ -88,7 +88,7 @@ alt="A screenshot of a computer program Description automatically generated with
     the S3 bucket and paste it below. If necessary, use the AWS webpage
     above for step-by-step instructions.**
 
-<img src="./media/image11_CC.png" style="width:6.5in;height:2.55069in"
+<img src="./media/image11_CC.jpg" style="width:6.5in;height:2.55069in"
 alt="A screenshot of a computer Description automatically generated" />
 
 6.  **The CTO will be reviewing this document. You have shown how easy
