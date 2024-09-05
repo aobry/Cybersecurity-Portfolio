@@ -10,8 +10,3 @@ instance**
 
 <img src="./media/image2_RDS.jpg" style="width:6.5in;height:3.22917in"
 alt="Graphical user interface, text, application, email Description automatically generated" />
-
-**Lab Complete**
-
-<img src="./media/image3_RDS.jpg" style="width:6.5in;height:3.25833in"
-alt="Graphical user interface, text Description automatically generated" />
