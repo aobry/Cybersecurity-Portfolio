@@ -1,11 +1,3 @@
-Aaron OBryant
-
-11/15/2022
-
-CMSC 307
-
-Professor David Castillo
-
 **Section 1.**
 
 Natural Language Processing Artificial Intelligence is a branch of AI
