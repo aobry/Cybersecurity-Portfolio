@@ -1,9 +1,3 @@
-**Aaron OBryant**
-
-**CMIT 326 7384**
-
-**12/07/2022**
-
 **Scale and Load Balance Your Architecture**
 
 Task 1: Create an AMI for Auto Scaling
