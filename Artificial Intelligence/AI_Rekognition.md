@@ -1,7 +1,4 @@
 
-**  
-**
-
 **After logging into the AWS Console, I navigated to the Amazon
 Rekognition tool as shown in figure 1 and figure 2.**
 
