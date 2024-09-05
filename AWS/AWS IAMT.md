@@ -1,10 +1,4 @@
-**Aaron OBryant**
-
-**CMIT 326 7384**
-
-**12/07/2022**
-
-**Introduction to AWS IAM**
+**AWS IAM**
 
 Task 1: Explore the Users and Groups
 
