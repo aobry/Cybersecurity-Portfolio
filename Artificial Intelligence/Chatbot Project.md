@@ -1,14 +1,3 @@
-**Aaron OBryant**
-
-**CMSC 307 7380**
-
-**12/11/2022**
-
-**  
-**
-
-**Step 3**
-
 **Data can be found everywhere and is collected every day. Data can be
 almost anything ranging from crime rates of San Diego to the box office
 results from the past 10 years. Data can be housed in data sources
