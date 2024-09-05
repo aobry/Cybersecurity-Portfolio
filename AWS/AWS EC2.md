@@ -1,11 +1,3 @@
-**Aaron OBryant**
-
-**CMIT 326 7384**
-
-**11/22/2022**
-
-**Introduction to Amazon EC2 Lab**
-
 Task 1: Launch Your Amazon EC2 Instance
 
 <img src="./media/image1_EC2.jpg" style="width:6.5in;height:3.15139in"
