@@ -1,9 +1,5 @@
-#Aaron OBryant
-#CMIS 102 6982
-#07/19/2022
-#Week 5 Assignment
-#This program will calculate the weighted grade for students enrolled in CMIS
 
+#This program will calculate the weighted grade for students enrolled in CMIS
 
 #Welcome--
 print('\nWelcome to CMIS Gradbook!\t')
