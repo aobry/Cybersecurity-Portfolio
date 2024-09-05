@@ -1,7 +1,3 @@
-**CMIT 495 Current Trends and Projects in Computer Networks and
-Security**
-
-*Week 2 – Cloud Computing*
 
 1.  **Log in to your newly created AWS account and take a screenshot of
     the AWS Management Console (Dashboard) and paste it below
