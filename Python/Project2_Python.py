@@ -1,6 +1,4 @@
-#Aaron OBryant
-#CMIS 102 6982
-#July 04, 2022
+
 #This program will compute the cost of house cleaning services
 def main():
     #Greetings
