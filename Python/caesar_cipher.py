@@ -1,3 +1,5 @@
+#A Caesar Chipher is a simple encryption that moves each letter of the message a fixed number of positions down the alphabet
+
 letters = 'abcdefghijklmnopqrstuvwxyz'
 num_letters = len(letters)
 
@@ -37,6 +39,8 @@ user_input = input('Do you want to encrypt or decrypt? (e/d): ').lower()
 print()
 
 # Encryption option
+# Depending on the number "key" chosen that is how far the letter will be shifted 
+
 if user_input == 'e':
     print('ENCRYPTION MODE SELECTED')
     print()
@@ -49,6 +53,8 @@ if user_input == 'e':
         print("Invalid entry! Please enter a key between 1 and 26.")
 
 # Decrypt option
+#To decrypt the message the same number "key" is used in the reverse
+
 elif user_input == 'd':
     print('DECRYPTION MODE SELECTED')
     print()
