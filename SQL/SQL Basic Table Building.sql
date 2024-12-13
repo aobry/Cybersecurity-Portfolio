@@ -1,3 +1,5 @@
+#Table 1 Query:
+  
 CREATE TABLE EmployeeDemographics
 (EmployeeID int,
 FirstName varchar(50),
@@ -7,12 +9,17 @@ Gender varchar (50),
 HomeOffice varchar (50)
 )
 
+#Table 2 Query:
+  
 CREATE TABLE EmployeeSalary
 (EmployeeID int,
 JobTitle varchar (50),
 Salary int
 )
 
+
+#Table 1 Insert:
+  
 INSERT INTO EmployeeDemographics VALUES
 (1001, 'Michael' , 'Scott' , 50 , 'Male' , 'Scranton'),
 (1002, 'Robert' , 'Parr' , 45 , 'Male' , 'Metro City'),
@@ -23,6 +30,8 @@ INSERT INTO EmployeeDemographics VALUES
 (1007, 'Peter' , 'Griffin' , 43 , 'Male' , 'Quahog'),
 (1008, 'Diana' , 'Prince' , 36 , 'Female' , 'Themyscira'),
 (1009, 'Harry' , 'Potter' , 21 , 'Male' , 'London')
+
+#Table 2 Insert:
 
 INSERT INTO EmployeeSalary VALUES
 (1001, 'Regional Manager' , 88000),
